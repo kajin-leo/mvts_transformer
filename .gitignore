@@ -29,5 +29,9 @@ _build
 # Logs
 logs
 
+# xls
+*.xls
+
 .idea
 Monash_UEA_UCR_Regression_Archive
+experiments
